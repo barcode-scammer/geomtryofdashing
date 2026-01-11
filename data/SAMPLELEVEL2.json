@@ -1,12 +1,18 @@
 {
     "id": 57436521,
     "name": "SAMPLELEVEL2",
-    "author": "Solo_Creator",
+    "author": "ofrid",
     "creators": [],
-    "verifier": "Solo_Creator",
-    "verification": "https://www.youtube.com/watch?v=ISTl28wKSXc",
+    "verifier": "ofrid",
+    "verification": "https://medal.tv/games/geometry-dash/clips/ll96kJH0f6o3II7sd?invite=cr-MSxUM2QsNDQxNjYwODg5",
     "percentToQualify": "100",
     "password": "Free To Copy",
     "records": [
+           {
+            "user": "evrus",
+            "link": "https://youtu.be/CzLz2kjRmLk?si=RzKlEHilllZ3FQXn",
+            "percent": 100,
+            "hz": 360
+        }
     ]
 }

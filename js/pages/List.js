@@ -108,10 +108,9 @@ export default {
                     <p>
                         Cheat indicator MUST be activated (mega hack)
                     </p>
-                    <p>
-                         
-                    </p>
-                     <h3>Rules for uploading a level:<h3>
+                     
+                    <h3>Rules for uploading a level:<h3>
+
                     <p>
                         maximum 30 seconds long
                     </p>

@@ -1,0 +1,18 @@
+{
+    "id": 94084353,
+    "name": "Sample Level 3",
+    "author": "VV_insane",
+    "creators": ["VV_insane"],
+    "verifier": "barcode scanner",
+    "verification": "https://youtu.be/c62yl36rarc",
+    "percentToQualify": "100",
+    "password": "Free to copy",
+    "records": [
+        {
+            "user": "ariel",
+            "link": "https://medal.tv/games/geometry-dash/clips/lSL82z2z4TOfD2ri1?invite=cr-MSxoRTcsMzQzNDU2Mjk&v=13",
+            "percent": 100,
+            "hz": 144
+        }
+    ]
+}

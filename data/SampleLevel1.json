@@ -1,16 +1,16 @@
 {
     "id": 57436521,
-    "name": "SampleLevel1",
-    "author": "LevelUploader",
-    "creators": ["Creator1", "Creator2", "Creator3"],
-    "verifier": "Verifier",
-    "verification": "https://www.youtube.com/watch?v=ISTl28wKSXc",
+    "name": "Vocalaine",
+    "author": "Syrie",
+    "creators": ["Syrie"],
+    "verifier": "Syrie",
+    "verification": "https://youtu.be/ur6aPy7opYo?si=QmvIUN-hkC0vvtpn",
     "percentToQualify": 56,
     "password": "Not Copyable",
     "records": [
         {
-            "user": "Sample_Victor_1",
-            "link": "https://www.youtube.com/watch?v=MgJeijBGKHU",
+            "user": "ariel",
+            "link": "https://medal.tv/games/geometry-dash/clips/lSyhJu0FpQJT7EnFx?invite=cr-MSxRT0wsMzQzNDU2Mjk&v=4",
             "percent": 100,
             "hz": 360
         }

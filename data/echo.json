@@ -1,1 +1,24 @@
-
+{
+    "id": 114440836,
+    "name": "Echo",
+    "author": "jrocks",
+    "creators": ["jrocks"],
+    "verifier": "jrocks",
+    "verification": "https://www.youtube.com/watch?v=wqCu41qznnQ",
+    "percentToQualify": "100",
+    "password": "free to copy",
+    "records": [
+        {
+            "user": "ariel",
+            "link": "https://medal.tv/games/geometry-dash/clips/lRoN5uNbAhSI3iqAz",
+            "percent": 100,
+            "hz": 144
+        },
+        {
+            "user": "pillow",
+            "link": "https://drive.google.com/file/d/15nUEniRrDa7elFJ8CyLAz4Tj-bJFFjfP/view?usp=sharing",
+            "percent": 100,
+            "hz": 120
+        }
+    ]
+}

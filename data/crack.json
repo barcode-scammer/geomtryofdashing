@@ -1,1 +1,18 @@
-
+{
+    "id": 128729262,
+    "name": "Crackhead Comet",
+    "author": "pillow",
+    "creators": ["pillow"],
+    "verifier": "pillow",
+    "verification": "https://www.youtube.com/watch?v=JRRZzU-rs0I",
+    "percentToQualify": "100",
+    "password": "uhmmmm dislike?",
+    "records": [
+        {
+            "user": "ariel",
+            "link": "https://medal.tv/games/geometry-dash/clips/lJflEkLSJuB0XCJQr",
+            "percent": 100,
+            "hz": 144
+        }
+    ]
+}

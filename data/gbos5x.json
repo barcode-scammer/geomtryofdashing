@@ -1,0 +1,24 @@
+{
+    "id": 130963489,
+    "name": "GBOS 5x",
+    "author": "barcode scanner",
+    "creators": [barcode scanner],
+    "verifier": "barcode scanner",
+    "verification": "https://www.youtube.com/watch?si=6D5XwDGsYkgHT8FU&v=Upq7pKfrhyM&feature=youtu.be",
+    "percentToQualify": "100",
+    "password": "Free To Copy",
+    "records": [
+           {
+            "user": "ariel",
+            "link": "https://medal.tv/games/geometry-dash/clips/lRRrQdugzVruN_Fdz",
+            "percent": 100,
+            "hz": "144"
+           },
+           {
+            "user": "Syrie",
+            "link": "https://drive.google.com/file/d/1HTyxR1a9Fw9PTybqeDQ8HETcQJr_67FB/view?usp=sharing",
+            "percent": 100,
+            "hz": 360
+        }
+    ]
+}

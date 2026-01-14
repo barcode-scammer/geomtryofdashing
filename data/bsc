@@ -1,1 +1,17 @@
-
+{
+    "id": "130171742",
+    "name": "BSC",
+    "author": "barcode scanner",
+    "creators": ["barcode scanner"],
+    "verifier": "barcode scanner",
+    "verification": "https://www.youtube.com/watch?v=OHad_bvSllU",
+    "percentToQualify": "100",
+    "password": "Free To Copy",
+    "records": [
+           {
+            "user": "aerial",
+            "link": "https://medal.tv/games/geometry-dash/clips/lRos5bax0OE7vsUGY",
+            "percent": 100,
+            "hz": "(CBF) 144"
+           },
+]

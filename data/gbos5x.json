@@ -2,7 +2,7 @@
     "id": 130963489,
     "name": "GBOS 5x",
     "author": "barcode scanner",
-    "creators": [barcode scanner],
+    "creators": ["barcode scanner"],
     "verifier": "barcode scanner",
     "verification": "https://www.youtube.com/watch?si=6D5XwDGsYkgHT8FU&v=Upq7pKfrhyM&feature=youtu.be",
     "percentToQualify": "100",

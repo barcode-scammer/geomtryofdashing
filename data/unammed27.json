@@ -1,0 +1,24 @@
+{
+    "id": 126315620,
+    "name": "Unammed 27",
+    "author": "carrotdrizzle",
+    "creators": ["carrotdrizzle"],
+    "verifier": "carrotdrizzle",
+    "verification": "https://www.youtube.com/watch?v=P9JkBAJ-hg8&feature=youtu.be",
+    "percentToQualify": "100",
+    "password": "Free To Copy",
+    "records": [
+           {
+            "user": "syrie",
+            "link": "https://drive.google.com/file/d/1r0YDdwpACwEMaJSuqAo3FdsI31mQX0ka/view?usp=sharing",
+            "percent": 100,
+            "hz": "(CBF) 360"
+           },
+           {
+            "user": "ariel",
+            "link": "https://youtu.be/CzLz2kjRmLk?si=RzKlEHilllZ3FQXn",
+            "percent": 100,
+            "hz": 144
+        }
+    ]
+}

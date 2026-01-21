@@ -7,5 +7,10 @@
     "verification": "blank",
     "percentToQualify": "100",
     "password": "Free To Copy",
-    "records": []
-}
+    "records": [        {
+            "user": "toshy128",
+            "link": "blank",
+            "percent": 100,
+            "hz": 360
+        }
+    ]

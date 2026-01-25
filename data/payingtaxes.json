@@ -7,5 +7,12 @@
     "verification": "https://medal.tv/games/geometry-dash/clips/lT9GkKqxJ-_2NxaxV?invite=cr-MSxEa3gsMzQzNDU2Mjk&v=17",
     "percentToQualify": "100",
     "password": "Free To Copy",
-    "records": []
+    "records": [        {
+            "user": "andy",
+            "link": "https://drive.google.com/file/d/1av1b5wyvNlZH6BQUXIYGPWtQScfTpSI4/view",
+            "percent": 100,
+            "hz": 165
+        }
+    ]
 }
+

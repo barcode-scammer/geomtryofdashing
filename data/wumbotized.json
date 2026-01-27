@@ -1,9 +1,9 @@
 {
     "id": 132218171,
     "name": "wumbotized",
-    "author": "barcode",
-    "creators": ["barcode"],
-    "verifier": "barcode",
+    "author": "barcode scanner",
+    "creators": ["barcode scanner"],
+    "verifier": "barcode scanner",
     "verification": "https://www.youtube.com/watch?v=d7DRXWI2RDQ&feature=youtu.be",
     "percentToQualify": 100,
     "password": "No password",

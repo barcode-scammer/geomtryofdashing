@@ -14,5 +14,11 @@
             "percent": 100,
             "hz": 144
         }
+         {
+            "user": "anticroom",
+            "link": "blank",
+            "percent": 100,
+            "hz": 240
+        }
     ]
 }

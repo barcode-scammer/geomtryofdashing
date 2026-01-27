@@ -1,9 +1,9 @@
 {
     "id": "131829934",
     "name": "eeasy kevel 1",
-    "author": "barcode",
-    "creators": ["barcode"],
-    "verifier": "barcode",
+    "author": "barcode scanner",
+    "creators": ["barcode scanner"],
+    "verifier": "barcode scanner",
     "verification": "blank",
     "percentToQualify": "100",
     "password": "Free To Copy",

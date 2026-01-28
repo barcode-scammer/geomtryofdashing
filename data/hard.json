@@ -7,5 +7,12 @@
     "verification": "https://medal.tv/games/geometry-dash/clips/lUH0tS4z2kZUQ4NXz?invite=cr-MSxUWncsNTE1Njc5NDgz&v=60",
     "percentToQualify": "100",
     "password": "Free To Copy",
-    "records": []
+    "records": [
+             {
+            "user": "syrie",
+            "link": "blank",
+            "percent": 100,
+            "hz": 360
+        }
+    ]
 }

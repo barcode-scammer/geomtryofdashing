@@ -37,6 +37,12 @@
             "link": "https://drive.google.com/file/d/1HRuKdL8jy_kHuQjrsSwPQjdEnFGRTOJK/view?usp=drive_link",
             "percent": 100,
             "hz": 240
+        },
+          {
+        "user": "barcode",
+            "link": "https://youtu.be/Ww_Wr6J7wTM",
+            "percent": 100,
+            "hz": 360
         }
     ]
 }

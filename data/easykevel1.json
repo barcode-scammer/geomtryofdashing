@@ -12,6 +12,12 @@
             "link": "blank",
             "percent": 100,
             "hz": 360
+        },
+                {
+         "user": "syrie",
+            "link": "blank",
+            "percent": 100,
+            "hz": 360
         }
     ]
 }

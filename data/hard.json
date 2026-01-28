@@ -13,6 +13,12 @@
             "link": "blank",
             "percent": 100,
             "hz": 360
+        },
+           {
+            "user": "andy",
+            "link": "blank",
+            "percent": 100,
+            "hz": 240
         }
     ]
 }

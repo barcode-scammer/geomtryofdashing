@@ -7,5 +7,19 @@
     "verification": "https://www.youtube.com/watch?v=d7DRXWI2RDQ&feature=youtu.be",
     "percentToQualify": 100,
     "password": "No password",
-    "records": []
+    "records": [
+         {
+            "user": "Syrie",
+            "link": "blank",
+            "percent": 100,
+            "hz": 360
+        },
+          {
+            "user": "bigbadbarry1",
+            "link": "blank",
+            "percent": 100,
+            "hz": 360
+        }
+        
+    ]
 }

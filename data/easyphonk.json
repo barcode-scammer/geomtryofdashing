@@ -3,7 +3,7 @@
     "name": "easy phonk 1",
     "author": "barcode",
     "creators": ["barcode"],
-    "verifier": "barcode",
+    "verifier": "barcode scanner",
     "verification": "https://youtu.be/lbChKUlLFN8",
     "percentToQualify": "100",
     "password": "Free To Copy",

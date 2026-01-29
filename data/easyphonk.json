@@ -7,5 +7,11 @@
     "verification": "https://youtu.be/lbChKUlLFN8",
     "percentToQualify": "100",
     "password": "Free To Copy",
-    "records": []
-}
+     "records": [
+        {
+            "user": "bigbadbarry1",
+            "link": "dih",
+            "percent": 100,
+            "hz": 60
+        }
+    ]

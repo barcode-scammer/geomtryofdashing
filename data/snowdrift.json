@@ -7,7 +7,14 @@
     "verification": "blank",
     "percentToQualify": "100",
     "password": "Free To Copy",
-    "records": []
+    "records": [
+        {
+            "user": "andy",
+            "link": "https://drive.google.com/file/d/12bkHthig2VrnNHZMQZ8HVHg4ViIKrw21/view",
+            "percent": 100,
+            "hz": 165
+        }
+    ]
     }
     
   

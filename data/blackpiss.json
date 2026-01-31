@@ -7,5 +7,12 @@
     "verification": "https://www.youtube.com/watch?time_continue=17&v=HfmKLgd8p6g&embeds_referring_euri=https%3A%2F%2Fdiscord.com%2F&source_ve_path=MTM5MTE3LDEzOTExNywzNjg0MiwyODY2Ng",
     "percentToQualify": "100",
     "password": "Free To Copy",
-    "records": []
+    "records": [
+        {
+            "user": "andy",
+            "link": "https://drive.google.com/file/d/1A_4OoY7uHokdRjfhWD1KwDC8tTf5fMBb/view",
+            "percent": 100,
+            "hz": 165
+        }
+    ]
 }

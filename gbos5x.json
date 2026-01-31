@@ -8,6 +8,12 @@
     "percentToQualify": "100",
     "password": "Free To Copy",
     "records": [
+          {
+            "user": "pillow",
+            "link": "https://drive.google.com/file/d/1GBVO8lfl2TylCGa51SmbJxA4hXxM-5HM/view?usp=sharing",
+            "percent": 100,
+            "hz": "144"
+           },
            {
             "user": "ariel",
             "link": "https://medal.tv/games/geometry-dash/clips/lRRrQdugzVruN_Fdz",

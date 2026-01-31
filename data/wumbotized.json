@@ -8,15 +8,15 @@
     "percentToQualify": 100,
     "password": "No password",
     "records": [
-         {
-            "user": "Syrie",
-            "link": "blank",
+        {
+            "user": "bigbadbarry1",
+            "link": "https://youtu.be/Sg4g09Z-HKU",
             "percent": 100,
             "hz": 360
         },
-          {
-            "user": "bigbadbarry1",
-            "link": "https://youtu.be/Sg4g09Z-HKU",
+         {
+            "user": "Syrie",
+            "link": "blank",
             "percent": 100,
             "hz": 360
         },

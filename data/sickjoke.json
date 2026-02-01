@@ -7,5 +7,11 @@
     "verification": "https://www.youtube.com/watch?v=aJYBVXwDB2A&feature=youtu.be",
     "percentToQualify": "100",
     "password": "Free To Copy",
-    "records": []
+    "records": [        {
+        "user": "pillow",
+        "link": "https://drive.google.com/file/d/1k7dUHvT5HCU2VMwfq8NZQPlQEGDDYl3j/view?usp=sharing",
+        "percent": 100,
+        "hz": "144 (CBF)"
     }
+    ]
+}

@@ -1,1 +1,12 @@
-d
+{
+    "id": 132485677,
+    "name": "Hades",
+    "author": "Comet",
+    "creators": ["Comet, pillow"],
+    "verifier": "pillow",
+    "verification": "https://www.youtube.com/watch?v=p3KTEspdnr8",
+    "percentToQualify": 49,
+    "password": "N/A",
+    "records": [
+    ]
+}

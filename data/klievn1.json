@@ -7,6 +7,13 @@
     "verification": "https://www.youtube.com/watch?si=RQQnl_L0DnTPXsoQ&v=wSgMIHAZ5jI&feature=youtu.be",
     "percentToQualify": "100",
     "password": "Free To Copy",
-    "records":[]
+    "records":[
+        {
+            "user": "evrus",
+            "link": "https://medal.tv/games/geometry-dash/clips/m3kT2WhvhuT-sWclY?invite=cr-MSx1YVcsMjIzOTgzMDY5&v=32",
+            "percent": 100,
+            "hz": 240
+        }
+    ]
 
 }

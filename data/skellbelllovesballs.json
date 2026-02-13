@@ -8,7 +8,12 @@
     "percentToQualify": "100",
     "password": "Free To Copy",
     "records": [
-                
+            {
+            "user": "andy",
+            "link": "https://drive.google.com/file/d/11VzkdTi1A6iATtLgSaM5zB4pzQdkw9RG/view",
+            "percent": 100,
+            "hz": 165
+        }    
          
     ]
 }

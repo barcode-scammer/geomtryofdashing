@@ -8,23 +8,11 @@
     "percentToQualify": "100",
     "password": "Free To Copy",
     "records": [        {
-            "user": "toshy128",
-            "link": "blank",
-            "percent": 100,
-            "hz": 360
-        },
-                {
-         "user": "syrie",
+         "user": "Syrie",
             "link": "https://drive.google.com/file/d/1p-dPL-nIb3iF7Wa7MIzg_VczYo_Kh1I0/view?usp=sharing",
             "percent": 100,
             "hz": 360
         },
-          {
-            "user": "bigbadbarry1",
-            "link": "blank",
-            "percent": 100,
-            "hz": 360
-          },
         {
             "user": "andy",
             "link": "https://drive.google.com/file/d/1CvWh8nr1bwY0Ksuhm49_oYD937PuOIhv/view",
@@ -36,6 +24,12 @@
             "link": "https://drive.google.com/file/d/1y7wRZfFuqnWRBTcjRy9YICdU1xZwJYil/view?usp=sharing",
             "percent": 100,
             "hz": 144
-        }
+        },
+          {
+            "user": "MrHighway1",
+            "link": "https://medal.tv/games/geometry-dash/clips/m27YipPGdnuVoO55F",
+            "percent": 100,
+            "hz": 360
+        },
     ]
 }

@@ -8,5 +8,11 @@
     "percentToQualify": 100,
     "password": "N/A",
     "records": [
+          {
+            "user": "fyxe",
+            "link": "https://medal.tv/games/geometry-dash/clips/lIrRKDdqXSWz0dnCX?invite=cr-MSxZcWMsNDIzNDQxMjA4&v=18",
+            "percent": 100,
+            "hz": "180"
+           }
     ]
 }

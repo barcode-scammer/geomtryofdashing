@@ -98,30 +98,55 @@ export default {
                             </li>
                         </ol>
                     </template>
-                    <h3>RULES FOR SUBMITTING A RECORD</h3>
+                    <h3>Rules for submitting a record:</h3>
                     <p>
-                       CBF (click between frames) IS ALLOWED!
+                      10+ cps is allowed
                     </p>
                     <p>
-                        360 FPS (frames per second) limit
+                       CBF/CBS allowed, no fps limit
                     </p>
                     <p>
-                        Cheat indicator MUST be activated (mega hack)
+                       240TPS Maximum
                     </p>
+                     <p>
+                      Cheat indicator must be activated
+                    </p>
+                     <p>
+                      Video must be clear and distinguishable
+                    </p>
+                    <p>
+                    Click sounds recommended, but IF NECESSARY cps counter will suffice
+                    <p>
+
                      
                     <h3>Rules for uploading a level:</h3>
 
                     <p>
-                        maximum 30 seconds long
+                        Maximum 30 seconds long
                     </p>
                     <p>
-                        must be a fully completed layout at the least (deco wise)
+                        Must be a fully completed layout at least
                     </p>
                     <p>
-                        no secret ways
+                       No secret ways
                     </p>
                     <p>
-                       CPS is limited to 10. This means that your level must be possible with 10 CPS or below (botted), even if just barely
+                       Must be verified with 10 cps or lower.
+                       </p>
+                       <p>
+                (Alternate spamming for 3+ clicks is dissalowed. But you can still use multiple input devices to double or triple click inputs. (example: Double clicking a green orb to pass a certain section))
+                    </p>
+                    <p>
+                    Must be uploaded to youtube (even if unlisted)
+                    </p>
+                    <p>
+                       CBF/CBS allowed, no fps limit
+                    </p>
+                    <p>
+                       240TPS Maximum
+                    </p>
+                     <p>
+                      Cheat indicator must be activated
                     </p>
                 </div>
             </div>

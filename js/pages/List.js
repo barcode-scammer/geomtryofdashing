@@ -116,7 +116,7 @@ export default {
                     </p>
                     <p>
                     Click sounds recommended, but IF NECESSARY cps counter will suffice
-                    <p>
+                    </p>
 
                      
                     <h3>Rules for uploading a level:</h3>

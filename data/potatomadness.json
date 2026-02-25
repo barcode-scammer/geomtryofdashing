@@ -1,0 +1,18 @@
+{
+    "id": "134253486",
+    "name": "Potatos Madness",
+    "author": "potato",
+    "creators": ["potato"],
+    "verifier": "potato",
+    "verification": "https://youtu.be/1U5d7RqFEnI",
+    "percentToQualify": "100",
+    "password": "Free To Copy",
+    "records": [
+{
+            "user": "barcode scanner",
+            "link": "https://youtu.be/1U5d7RqFEnI",
+            "percent": 100,
+            "hz": 360
+        }
+    ]
+}

@@ -1,0 +1,24 @@
+{
+    "id": "134311110",
+    "name": "Jshimgleus",
+    "author": "Jackwdub8",
+    "creators": ["potato connoisseur"],
+    "verifier": "Jackwdub",
+    "verification": "https://youtu.be/udnC_a_NRcE",
+    "percentToQualify": "100",
+    "password": "Free To Copy",
+    "records": [
+        {
+            "user": "andy",
+            "link": "https://www.youtube.com/watch?v=6qjqfcVBcek",
+            "percent": 100,
+            "hz": 165
+        },
+        {
+            "user": "pillow",
+            "link": "https://drive.google.com/file/d/1ZkdktQ37E567GjCy8a8G9SMdZyxVJQ8h/view?usp=sharing",
+            "percent": 100,
+            "hz": 144
+        }
+    ]
+}

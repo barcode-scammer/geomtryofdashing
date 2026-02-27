@@ -1,18 +1,1 @@
-{
-    "id": "134253486",
-    "name": "Potatos madness",
-    "author": "potato connoisseur",
-    "creators": ["potato connoisseur"],
-    "verifier": "barcode scanner",
-    "verification": "https://youtu.be/1U5d7RqFEnI",
-    "percentToQualify": "100",
-    "password": "Free To Copy",
-    "records": [
-        {
-            "user": "pillow",
-            "link": "https://drive.google.com/file/d/16Zf_N3jW0WTRKkGNO_Tnqove7i3zItGg/view?usp=sharing",
-            "percent": 100,
-            "hz": 144
-        }
-    ]
-}
+

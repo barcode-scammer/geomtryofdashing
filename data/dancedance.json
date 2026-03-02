@@ -1,1 +1,18 @@
-
+{
+    "id": 131829599,
+    "name": "Dance Dance",
+    "author": "Syrie",
+    "creators": ["Syrie"],
+    "verifier": "Syrie",
+    "verification": "https://youtu.be/qdSly5s_WK4",
+    "percentToQualify": 100,
+    "password": "Not Copyable",
+    "records": [
+        {
+         "user": "pillow",
+            "link": "https://drive.google.com/file/d/1qFSNI-YHBUkB_f-RhgKMGVgsxO_NJWWk/view?usp=sharing",
+            "percent": 100,
+            "hz": 144
+        }
+    ]
+}

@@ -1,8 +1,8 @@
 const scale = 3;
 
 export function score(rank, percent, minPercent) {
-    // Levels below 46 are Legacy
-    if (rank < 46) return "Legacy";
+    // Levels above 46 are Legacy
+    if (rank > 46) return "Legacy";
 
     if (rank > 150) return 0;
     if (rank > 60 && percent < 100) return 0;

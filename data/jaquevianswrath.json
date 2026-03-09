@@ -1,0 +1,24 @@
+{
+    "id": 135034224,
+    "name": "JAQUEVIANS WRATH",
+    "author": "TheOGDark",
+    "creators": ["Noobas", "Dark"],
+    "verifier": "Dark",
+    "verification": "https://www.youtube.com/watch?v=plXONP_ivlY",
+    "percentToQualify": "100",
+    "password": "Free To Copy",
+    "records": [
+        {
+            "user": "andy",
+            "link": "https://youtu.be/Z6wc0eFjc5I",
+            "percent": 100,
+            "hz": 165
+        },
+          {
+            "user": "pillow",
+            "link": "https://drive.google.com/file/d/1HHmqKnP9oy9gXU4NLxtAPMpZ57O3eg2e/view?usp=sharing",
+            "percent": 100,
+            "hz": 144
+        }
+    ]
+}

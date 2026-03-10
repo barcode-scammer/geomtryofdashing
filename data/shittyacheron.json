@@ -1,0 +1,18 @@
+{
+    "id": 135307385,
+    "name": "shitty acheron chall",
+    "author": "zCarter",
+    "creators": ["zCarter"],
+    "verifier": "zCarter",
+    "verification": "https://www.youtube.com/watch?v=G86kUh8DEHg&feature=youtu.be",
+    "percentToQualify": 100,
+    "password": "N/A",
+    "records": [
+          {
+            "user": "pillow",
+            "link": "https://drive.google.com/file/d/1ex6KXQ-37Om2d2nAFIo_NHOQP2XpAyB9/view?usp=sharing",
+            "percent": 100,
+            "hz": "144"
+           }
+    ]
+}

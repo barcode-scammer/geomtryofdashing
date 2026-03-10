@@ -1,0 +1,18 @@
+{
+    "id": 135180833,
+    "name": "crack on crack",
+    "author": "andy",
+    "creators": ["Crack, andy"],
+    "verifier": "andy",
+    "verification": "https://youtu.be/-C19p_Zfhl8",
+    "percentToQualify": "100",
+    "password": "N/A",
+    "records": [
+         {
+            "user": "pillow",
+            "link": "https://drive.google.com/file/d/1USLoDnedeYTnVYrhJyo2kl8CbGw0ysbG/view?usp=sharing",
+            "percent": 100,
+            "hz": 144
+        }
+    ]
+}

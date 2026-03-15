@@ -1,0 +1,24 @@
+{
+    "id": 135679031,
+    "name": "high tide",
+    "author": "fluffy",
+    "creators": ["fluffy"],
+    "verifier": "fluffy",
+    "verification": "https://youtu.be/JoxD7gVJiOk?si=259OEbyhRGjVwPPc",
+    "percentToQualify": "100",
+    "password": "Free To Copy",
+    "records": [
+        {
+            "user": "Pandacake",
+            "link": "https://medal.tv/games/geometry-dash/clips/mjb8OIpof2ALSILod?invite=cr-MSxUU1gsNDI3NDk2ODc4",
+            "percent": 100,
+            "hz": 240
+        },
+          {
+            "user": "pillow",
+            "link": "https://drive.google.com/file/d/1NRvIwOTog9qBV-d-x-YgtAgr8tXd-aJb/view?usp=sharing",
+            "percent": 100,
+            "hz": 144
+        }
+    ]
+}

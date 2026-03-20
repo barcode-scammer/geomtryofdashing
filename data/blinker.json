@@ -1,1 +1,24 @@
-
+{
+    "id": 135993829,
+    "name": "blinker",
+    "author": "Panzerschwerkraftwagen",
+    "creators": ["Panzerschwerkraftwagen"],
+    "verifier": "Panzerschwerkraftwagen",
+    "verification": "https://youtu.be/utkwYlnJppA",
+    "percentToQualify": 100,
+    "password": "Not Copyable",
+    "records": [
+        {
+         "user": "Pandacake",
+            "link": "https://medal.tv/games/geometry-dash/clips/mkW0qUQmM4uQj-l_8?invite=cr-MSwwVXMsNDI3NDk2ODc4",
+            "percent": 100,
+            "hz": 240
+        },
+         {
+         "user": "pillow",
+            "link": "https://drive.google.com/file/d/1Qlozu3fzO77uHso-fo5CgiGDoc5q-bHn/view?usp=sharing",
+            "percent": 100,
+            "hz": 144
+        }
+    ]
+}

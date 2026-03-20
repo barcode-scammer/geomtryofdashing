@@ -1,1 +1,18 @@
-
+{
+    "id": 135568801,
+    "name": "my backache ron",
+    "author": "fluffy",
+    "creators": ["fluffy"],
+    "verifier": "Syrie",
+    "verification": "https://youtu.be/T3ZRczs_zHM",
+    "percentToQualify": 100,
+    "password": "N/A",
+    "records": [
+         {
+         "user": "pillow",
+            "link": "https://drive.google.com/file/d/1I-KWYLopLJZmOBQG1NEYF1PAJDCESHbX/view?usp=sharing",
+            "percent": 100,
+            "hz": 144
+        }
+    ]
+}

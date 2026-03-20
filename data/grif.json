@@ -1,1 +1,17 @@
-
+{
+    "id": 135849318,
+    "name": "grif",
+    "author": "fluffy",
+    "creators": ["fluffy"],
+    "verifier": "Syrie",
+    "verification": "https://www.youtube.com/watch?v=IOfGJVXjLvA&feature=youtu.be",
+    "percentToQualify": 100,
+    "password": "N/A",
+    "records": [
+         {
+         "user": "pillow",
+            "link": "https://drive.google.com/file/d/1BOiyfJCbBprecwtRknbwW01ZszPku6q4/view?usp=sharing",
+            "percent": 100,
+            "hz": 144
+        }
+    ]

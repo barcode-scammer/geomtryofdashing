@@ -1,1 +1,18 @@
-
+{
+    "id": 136149766,
+    "name": "Japan Meowsynth",
+    "author": "Syrie",
+    "creators": ["Syrie"],
+    "verifier": "Syrie",
+    "verification": "https://www.youtube.com/watch?v=azfVJIbiOc4",
+    "percentToQualify": 100,
+    "password": "Not Copyable",
+    "records": [
+        {
+         "user": "pillow",
+            "link": "https://drive.google.com/file/d/1akUq4KGSWbF_9WyUwvZef_ckmM41IQEx/view?usp=sharing",
+            "percent": 100,
+            "hz": 144
+        }
+    ]
+}

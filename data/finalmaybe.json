@@ -7,5 +7,12 @@
     "verification": "https://youtu.be/JjO1NP1oQZY",
     "percentToQualify": "100",
     "password": "Free To Copy",
-    "records": []
+    "records": [
+          {
+            "user": "bigbadbarry1",
+            "link": "https://youtu.be/T0-YlNy8zIw?si=M0DQL89c4hxl3Q_D",
+            "percent": 100,
+            "hz": 360
+        }
+    ]
 }

@@ -8,5 +8,11 @@
     "percentToQualify": 100,
     "password": "N/A",
     "records": [
+         {
+         "user": "andy",
+            "link": "https://medal.tv/games/geometry-dash/clips/mxXYuzfCynTjHhdI_?invite=cr-MSw2UHYsNTYxNDU5Njcw&v=35",
+            "percent": 100,
+            "hz": 165
+        }
     ]
 }

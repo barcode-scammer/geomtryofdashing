@@ -1,9 +1,9 @@
 {
     "id": 135993829,
     "name": "blinker",
-    "author": "Panzerschwerkraftwagen",
-    "creators": ["Panzerschwerkraftwagen"],
-    "verifier": "Panzerschwerkraftwagen",
+    "author": "chetah",
+    "creators": ["chetah"],
+    "verifier": "chetah",
     "verification": "https://youtu.be/utkwYlnJppA",
     "percentToQualify": 100,
     "password": "Not Copyable",
@@ -31,6 +31,12 @@
             "link": "https://1drv.ms/v/c/068b6e37ea293d7b/IQAlkwPf_KiuT72djlCKOf_bAbSV8xskI500IqAHvJ8UDrI?e=KuQriI",
             "percent": 100,
             "hz": 700
+        },
+         {
+         "user": "skirmzzzzz",
+            "link": "https://youtu.be/vS37hgs6Cbc",
+            "percent": 100,
+            "hz": 60
         },
          {
          "user": "marara",

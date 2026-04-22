@@ -25,6 +25,12 @@
             "link": "https://youtu.be/SWpJKwLKMLg",
             "percent": 100,
             "hz": 240
+        },
+         {
+            "user": "potalo",
+            "link": "https://www.youtube.com/watch?v=Gq0doVH2Euc",
+            "percent": 100,
+            "hz": 144
         }
     ]
 }

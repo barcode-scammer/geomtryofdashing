@@ -43,6 +43,12 @@
             "link": "https://youtu.be/FikDFKGHd2U",
             "percent": 100,
             "hz": 60
+        },
+          {
+            "user": "vin",
+            "link": "https://youtu.be/QCBQZZK8vU8",
+            "percent": 100,
+            "hz": 360
         }
     ]
 }

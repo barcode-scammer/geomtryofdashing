@@ -1,1 +1,17 @@
-
+{
+    "id": 139474244,
+    "name": "Zodiak",
+    "author": "Pandakake",
+    "creators": ["Fluffy, Pandacake"],
+    "verifier": "Pandacake",
+    "verification": "https://youtu.be/c0I3-Z2hjcs",
+    "percentToQualify": 100,
+    "skillsets": "Overall, Timings, Learny",
+    "records": [
+         {
+         "user": "pillow",
+            "link": "https://drive.google.com/file/d/15FLXrfiHy0xE_mmC_SPNxXmer7qKv9_D/view?usp=sharing",
+            "percent": 100,
+            "hz": 144
+        }
+    ]

@@ -8,6 +8,12 @@
     "percentToQualify": "100",
     "skillsets": "Consistency",
     "records": [
+          {
+            "user": "mixedupniko",
+            "link": "https://medal.tv/games/geometry-dash/clips/mlN09B3zsAHaukEzu?invite=cr-MSw4Rk8sNDU1NjA5MDA5",
+            "percent": 100,
+            "hz": 900
+        },
            {
             "user": "Syrie",
             "link": "https://drive.google.com/file/d/1FkVeec-ZIqJuz3qE4vpqHlGik4puB9fK/view?usp=sharing",
@@ -19,12 +25,6 @@
             "link": "https://drive.google.com/file/d/1l-LTHHNh7QmGVD8_iSUWOu8XiHhwHUvQ/view?usp=sharing",
             "percent": 100,
             "hz": 360
-        },
-           {
-            "user": "mixedupniko",
-            "link": "https://medal.tv/games/geometry-dash/clips/mlN09B3zsAHaukEzu?invite=cr-MSw4Rk8sNDU1NjA5MDA5",
-            "percent": 100,
-            "hz": 900
         }
     ]
 }

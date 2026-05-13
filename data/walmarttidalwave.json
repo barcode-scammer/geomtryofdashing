@@ -35,8 +35,14 @@
         {
             "user": "Jackwdub",
             "link": "https://medal.tv/games/geometry-dash/clips/mFYGmxuDdXrAUuKty?invite=cr-MSwzangsNDQ1Nzg5Nzk0",
-            "percent": 100,
+            "percent": 100,   
             "hz": 240
+        },
+        {
+            "user": "Atlas",
+            "link": "https://medal.tv/games/geometry-dash/clips/mHoWgbru2H7nR4sZ8?invite=cr-MSw2TDksMzMwMjY2OTc1&v=49",
+            "percent": 100,   
+            "hz": 480
         }
     ]
 }

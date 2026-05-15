@@ -11,19 +11,19 @@
         "user": "pillow",
         "link": "https://drive.google.com/file/d/1k7dUHvT5HCU2VMwfq8NZQPlQEGDDYl3j/view?usp=sharing",
         "percent": 100,
-        "hz": "144"
+        "enj": "1"
     },
         {
         "user": "andy",
         "link": "https://drive.google.com/file/d/1Hdp9DEB4x0kIn599BbePXl6_9p22Krca/view?usp=sharing",
         "percent": 100,
-        "hz": "165"
+        "enj": "165"
     },
         {
             "user": "barcode scanner",
             "link": "https://youtu.be/qdqvKim2EGo",
             "percent": 100,
-            "hz": 360
+            "enj": 360
         }
     ]
 }

@@ -24,13 +24,13 @@
             "user": "bigbadbarry1",
             "link": "https://youtu.be/z-hSL-aVNR4",
             "percent": 100,
-            "hz": 360
+            "enj": 360
           },
         {
             "user": "andy",
             "link": "https://drive.google.com/file/d/1g5lK17KGywi6sDJWzUbZO5a2EriILV4U/view",
             "percent": 100,
-            "hz": 165
+            "enj": 165
         }
     ]
 }

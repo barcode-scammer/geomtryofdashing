@@ -12,43 +12,43 @@
             "user": "andy",
             "link": "https://drive.google.com/file/d/1H9XhaTLBJGDLJN2qkvf6mpw66y9-KpJY/view",
             "percent": 100,
-            "hz": 165
+            "enj": 165
          },
             {
             "user": "pillow",
             "link": "https://drive.google.com/file/d/1eb6S_4xWuGpjQLitr4mMZwnFlCOkUQPF/view?usp=sharing",
             "percent": 100,
-            "hz": 144
+            "enj": 6
         },
              {
             "user": "Syrie",
             "link": "https://drive.google.com/file/d/1w2frleGHf6hLbIIgcW4ywzgq3lNapZST/view?usp=sharing",
             "percent": 100,
-            "hz": 360
+            "enj": 360
         },
          {
             "user": "Notchee",
             "link": "https://medal.tv/games/geometry-dash/clips/maJ9q1FqeTOI8AMO0?invite=cr-MSxqd2gsMjQwOTM4NTc2&v=30",
             "percent": 100,
-            "hz": 240
+            "enj": 240
         },
            {
             "user": "mixedupniko",
             "link": "https://drive.google.com/file/d/16JVG2FnwTJk1tkzpqopzKBQSF0sRC9xX/view?usp=sharing",
             "percent": 100,
-            "hz": 700
+            "enj": 700
         },
          {
             "user": "skirmzzzzz",
             "link": "https://youtu.be/FikDFKGHd2U",
             "percent": 100,
-            "hz": 60
+            "enj": 60
         },
           {
             "user": "vin",
             "link": "https://youtu.be/QCBQZZK8vU8",
             "percent": 100,
-            "hz": 360
+            "enj": 360
         }
     ]
 }

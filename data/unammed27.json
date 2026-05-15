@@ -12,25 +12,25 @@
             "user": "Syrie",
             "link": "https://drive.google.com/file/d/1LlXhRMyn76ePaB4XiYalpt8AaJEDKOcq/view?usp=sharing",
             "percent": 100,
-            "hz": 360
+            "enj": 360
         },
         {
             "user": "andy",
             "link": "",
             "percent": 100,
-            "hz": 165
+            "enj": 165
         },
         {
             "user": "pillow",
             "link": "https://drive.google.com/file/d/16NDoatAoQYibkt2hiX7q4wfl-M-a5lwy/view?usp=sharing",
             "percent": 100,
-            "hz": 144
+            "enj": 5
         },
             {
             "user": "Shardscapes",
             "link": "https://www.youtube.com/watch?v=aXG1OB31jOw",
             "percent": 100,
-            "hz": 288
+            "enj": 288
         }
     ]
 }

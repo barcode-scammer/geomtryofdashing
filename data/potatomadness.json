@@ -12,19 +12,19 @@
             "user": "pillow",
             "link": "https://drive.google.com/file/d/16Zf_N3jW0WTRKkGNO_Tnqove7i3zItGg/view?usp=sharing",
             "percent": 100,
-            "hz": 144
+            "enj": 5
         },
         {
             "user": "andy",
             "link": "https://www.youtube.com/watch?v=SLKL9fMpna8",
             "percent": 100,
-            "hz": 165
+            "enj": 165
         },
            {
             "user": "Syrie",
             "link": "https://drive.google.com/file/d/12GX2uWiMOOTcRpmS00H788DoFNZxZneE/view?usp=sharing",
             "percent": 100,
-            "hz": 320
+            "enj": 320
         }
     ]
 }

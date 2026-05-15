@@ -49,6 +49,12 @@
             "link": "https://youtu.be/sNAVhDMcokA",
             "percent": 100,
             "hz": 60
+        },
+          {
+            "user": "Shardscapes",
+            "link": "https://www.youtube.com/watch?v=BXRsCvt9GdI",
+            "percent": 100,
+            "hz": 288
         }
     ]
 }

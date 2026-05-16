@@ -7,18 +7,19 @@
     "verification": "https://youtu.be/Q_HA73F4ps4",
     "percentToQualify": 100,
     "skillsets": "Ball, Timings",
+    "enjoyment": "",
     "records": [
          {
          "user": "pillow",
             "link": "https://drive.google.com/file/d/15FLXrfiHy0xE_mmC_SPNxXmer7qKv9_D/view?usp=sharing",
             "percent": 100,
-            "enj": 5
+            "enj": 7
         },
         {
          "user": "Syrie",
             "link": "https://drive.google.com/file/d/1USBmQ2mw1zNgYfMR79QuNqT13W8eS5o9/view?usp=sharing",
             "percent": 100,
-            "enj": 320
+            "enj": 5
         }
     ]
 }

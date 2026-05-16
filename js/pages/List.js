@@ -43,7 +43,7 @@ export default {
                     <iframe class="video" id="videoframe" :src="video" frameborder="0"></iframe>
                     <ul class="stats">
                         <li>
-                            <div class="type-title-sm">Points when completed</div>
+                            <div class="type-title-sm">Points given</div>
                             <p>{{ score(selected + 1, 100, level.percentToQualify) }}</p>
                         </li>
                         <li>
@@ -53,6 +53,10 @@ export default {
                         <li>
                             <div class="type-title-sm">Skillsets</div>
                             <p>{{ level.skillsets || 'Unassigned' }}</p>
+                        </li>
+                        <li>
+                            <div class="type-title-sm">Enjoyment (Avg.)</div>
+                            <p>{{ level.enjoyment || 'Pending Ratings' }}</p>
                         </li>
                     </ul>
                     <h2>Records</h2>

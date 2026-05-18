@@ -7,13 +7,19 @@
     "verification": "https://www.youtube.com/watch?v=hrPCgnCuPX4",
     "percentToQualify": 100,
     "skillsets": "Timings",
-    "enjoyment": "7/10",
+    "enjoyment": "7.3/10",
     "records": [
          {
          "user": "pillow",
             "link": "https://drive.google.com/file/d/1qtaweLE6pu7uMyjIjvBhmIBAn9xBEyKg/view?usp=sharing",
             "percent": 100,
             "enj": 5
+        },
+          {
+         "user": "Shardscapes",
+            "link": "https://www.youtube.com/watch?v=eU091rZHO-Q",
+            "percent": 100,
+            "enj": 8
         }
     ]
 }

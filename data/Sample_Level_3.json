@@ -3,7 +3,7 @@
     "name": "easy skibidi level 1",
     "author": "barcode scanner",
     "creators": ["barcode scanner"],
-    "verifier": "Pillow",
+    "verifier": "pillow",
     "verification": "https://www.youtube.com/watch?v=56EuZxfbeB4",
     "percentToQualify": "100",
     "skillsets": "Wave, Spam, Unbalanced",
@@ -13,19 +13,19 @@
             "user": "ariel",
             "link": "https://medal.tv/games/geometry-dash/clips/lRoobkVvk8h2htOlT",
             "percent": 100,
-            "enj": 144
+            "enj": "?"
         },
         {
             "user": "jrocks54",
             "link": "https://www.youtube.com",
             "percent": 100,
-            "enj": "i dont know"
+            "enj": "?"
         },
         {
             "user": "andy",
             "link": "https://drive.google.com/file/d/1BDRPYBLNtN5YVFCZwyhNQZIVghUCdFTf/view",
             "percent": 100,
-            "enj": 165
+            "enj": 3
         }
     ]
 }

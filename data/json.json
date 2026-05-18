@@ -6,7 +6,7 @@
     "verifier": "toshy128",
     "verification": "https://medal.tv/games/geometry-dash/clips/lS9qLlE0M3ob9qgOF?invite=cr-MSxlenYsNTE1Njc5NDgz&v=60",
     "percentToQualify": "100",
-    "skillsets": "Unbalanced, Timings, Ship",
+    "skillsets": "Unbalanced, Timings",
     "enjoyment": "",
     "records": [
         {
@@ -19,7 +19,7 @@
             "user": "andy",
             "link": "https://drive.google.com/file/d/1d1UhJHXCJiHDzJ7EqNDgPJsuZUBodl1q/view",
             "percent": 100,
-            "enj": 165
+            "enj": 4
         },
         {
             "user": "pillow",

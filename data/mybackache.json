@@ -7,7 +7,7 @@
     "verification": "https://youtu.be/T3ZRczs_zHM",
     "percentToQualify": 100,
     "skillsets": "Overall, Ship",
-    "enjoyment": "",
+    "enjoyment": "5/10",
     "records": [
          {
          "user": "pillow",
@@ -20,6 +20,12 @@
             "link": "https://medal.tv/games/geometry-dash/clips/mJsFrpKiucWlJfeuW?invite=cr-MSxaT1osMzMwMjY2OTc1&v=45",
             "percent": 100,
             "enj": 10
+        },
+         {
+         "user": "Pandacake",
+            "link": "https://medal.tv/games/geometry-dash/clips/mO2284g8f1sq_8ZTt?invite=cr-MSxpTDcsNDI3NDk2ODc4",
+            "percent": 100,
+            "enj": 0
         }
     ]
 }

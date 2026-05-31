@@ -7,13 +7,19 @@
     "verification": "https://www.youtube.com/watch?v=em75FhabE9w",
     "percentToQualify": 100,
     "skillsets": "Fast Paced, Overall",
-    "enjoyment": "",
+    "enjoyment": "8.5/10",
     "records": [
            {
             "user": "pillow",
             "link": "https://drive.google.com/file/d/19QztPRJIGUpWvyVgaWqKx-YCG9aaD_69/view?usp=sharing",
             "percent": 100,
             "enj": 9
+        },
+        {
+            "user": "Atlas",
+            "link": "https://medal.tv/games/geometry-dash/clips/mOPBoKBxymLSUQwT0?invite=cr-MSxPN0IsMzMwMjY2OTc1",
+            "percent": 100,
+            "enj": 8
         }
     ]
 }

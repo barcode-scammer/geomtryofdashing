@@ -1,1 +1,19 @@
-
+{
+    "id": 141130590,
+    "name": "VVV GAY FEM",
+    "author": "zCarter",
+    "creators": ["zCarter"],
+    "verifier": "zCarter",
+    "verification": "https://www.youtube.com/watch?v=ZhofjVTTehg",
+    "percentToQualify": 100,
+    "skillsets": "Wave, Spam",
+    "enjoyment": "",
+    "records": [
+           {
+            "user": "pillow",
+            "link": "https://drive.google.com/file/d/111lu8-yaGl1L9UvRchwy5ZWFgiRygNu9/view?usp=sharing",
+            "percent": 100,
+            "enj": 7
+        }
+    ]
+}

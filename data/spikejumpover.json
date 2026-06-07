@@ -8,7 +8,14 @@
     "percentToQualify": "100",
     "skillsets": "Cubeslop, Slow",
     "enjoyment": "",
-    "records": []
+    "records": [
+         {
+            "user": "bigbadbarry",
+            "link": "https://youtu.be/O8XCRiTlKQs",
+            "percent": 100,
+            "enj": "?"
+        },
+    ]
     }
     
   

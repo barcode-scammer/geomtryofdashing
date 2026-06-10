@@ -7,13 +7,19 @@
     "verification": "https://youtu.be/4a7kcZHZemA",
     "percentToQualify": 100,
     "skillsets": "Wave, Ship",
-    "enjoyment": "6.5/10",
+    "enjoyment": "6/10",
     "records": [
          {
          "user": "pillow",
             "link": "https://drive.google.com/file/d/1O-BgAngESvZiyrSDTr1F7EJLZ3Uodqn0/view?usp=sharing",
             "percent": 100,
             "enj": 4
+        },
+         {
+            "user": "ariel",
+            "link": "https://medal.tv/games/geometry-dash/clips/mSV0igT063LFQmq4h?invite=cr-MSxjdmgsMzQzNDU2Mjk&v=26",
+            "percent": 100,
+            "enj": 5
         }
  ]
 }

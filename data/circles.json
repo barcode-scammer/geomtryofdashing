@@ -7,7 +7,13 @@
     "verification": "https://youtu.be/CPkvzIpTTLg",
     "percentToQualify": 100,
     "skillsets": "Wave",
-    "enjoyment": "8/10",
+    "enjoyment": "6/10",
     "records": [
+         {
+            "user": "ariel",
+            "link": "https://medal.tv/games/geometry-dash/clips/mTeXetLo1WDwV3QWC?invite=cr-MSxGY1csMzQzNDU2Mjk&v=37",
+            "percent": 100,
+            "enj": 4
+        }
  ]
 }

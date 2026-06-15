@@ -1,19 +1,25 @@
 {
-    "id": 141995854,
-    "name": "yuri simulator pt1",
-    "author": "almararz87",
-    "creators": ["marara"],
-    "verifier": "marara",
-    "verification": "https://youtu.be/erwP44bW1eY",
+    "id": 136960488,
+    "name": "Beautiful End",
+    "author": "Syrie",
+    "creators": ["Syrie"],
+    "verifier": "banshee",
+    "verification": "https://www.youtube.com/watch?v=TOGYP4RdZDI",
     "percentToQualify": 100,
     "skillsets": "Wave, Ship, Fast Paced",
-    "enjoyment": "6.5/10",
+    "enjoyment": "4.3/10",
     "records": [
           {
             "user": "pillow",
-            "link": "https://drive.google.com/file/d/1Cm8TYzdP0s3eeVqLkH9HYTKlNhSY7VCS/view?usp=sharing",
+            "link": "https://drive.google.com/file/d/13TK4OlxdqAjFsvlmX-PmWR7EcGrAOJRZ/view",
             "percent": 100,
-            "enj": 6
+            "enj": 3
+        },
+        {
+            "user": "ariel",
+            "link": "https://medal.tv/games/geometry-dash/clips/mU6tZ5ovzdoZWhWyH?invite=cr-MSxxbncsMzQzNDU2Mjk&v=83",
+            "percent": 100,
+            "enj": 3
         }
     ]
 }

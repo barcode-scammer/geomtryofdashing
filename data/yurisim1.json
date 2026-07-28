@@ -7,13 +7,19 @@
     "verification": "https://youtu.be/erwP44bW1eY",
     "percentToQualify": 100,
     "skillsets": "Overall, Ship",
-    "enjoyment": "6.5/10",
+    "enjoyment": "4.7/10",
     "records": [
           {
             "user": "Iris",
             "link": "https://drive.google.com/file/d/1Cm8TYzdP0s3eeVqLkH9HYTKlNhSY7VCS/view?usp=sharing",
             "percent": 100,
             "enj": 6
+        },
+         {
+            "user": "rite",
+            "link": "https://drive.google.com/file/d/1e1H5jHMASYq61uiDkUTfkiLz5cvyWBV3/view?usp=sharing",
+            "percent": 100,
+            "enj": 1
         }
     ]
 }

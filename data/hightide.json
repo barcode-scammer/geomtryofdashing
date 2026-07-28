@@ -7,7 +7,7 @@
     "verification": "https://youtu.be/JoxD7gVJiOk?si=259OEbyhRGjVwPPc",
     "percentToQualify": "100",
     "skillsets": "Wave",
-    "enjoyment": "7/10",
+    "enjoyment": "7.4/10",
     "records": [
         {
             "user": "Pandacake",
@@ -68,6 +68,12 @@
             "link": "https://youtu.be/-FJ-jvK4DCg",
             "percent": 100,
             "enj": 7
+        },
+         {
+            "user": "rite",
+            "link": "https://youtu.be/NYr8uboP0LY",
+            "percent": 100,
+            "enj": 10
         }
     ]
 }

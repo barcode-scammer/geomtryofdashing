@@ -7,7 +7,7 @@
     "verification": "https://www.youtube.com/watch?v=IOfGJVXjLvA&feature=youtu.be",
     "percentToQualify": 100,
     "skillsets": "Wave",
-    "enjoyment": "7.3",
+    "enjoyment": "6.2",
     "records": [
          {
          "user": "Iris",
@@ -38,6 +38,12 @@
             "link": "https://medal.tv/games/geometry-dash/clips/n2lrE9DElidvf4m6v?invite=cr-MSx1YmIsMzMwMjY2OTc1",
             "percent": 100,
             "enj": "10"
+        },
+        {
+            "user": "rite",
+            "link": "https://www.youtube.com/watch?v=dKxhpbnZYVE",
+            "percent": 100,
+            "enj": 2
         }
     ]
 }

@@ -7,7 +7,7 @@
     "verification": "https://youtu.be/YDw4s1uLL_0",
     "percentToQualify": 100,
     "skillsets": "Wave",
-    "enjoyment": "7.7/10",
+    "enjoyment": "8.3/10",
     "records": [
          {
          "user": "Iris",
@@ -20,6 +20,12 @@
             "link": "https://www.youtube.com/watch?v=S36tDG4u5WY",
             "percent": 100,
             "enj": 8
+        },
+        {
+            "user": "rite",
+            "link": "https://www.youtube.com/watch?v=dKxhpbnZYVE",
+            "percent": 100,
+            "enj": 10
         }
     ]
 }

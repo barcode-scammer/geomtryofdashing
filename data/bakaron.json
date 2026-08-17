@@ -9,5 +9,11 @@
     "skillsets": "Wave, Ship",
     "enjoyment": "",
     "records": [
+         {
+         "user": "jrpresley08",
+            "link": "https://www.youtube.com/watch?v=PRUjDud6sDE",
+            "percent": 100,
+            "enj": 0
+        }
     ]
 }

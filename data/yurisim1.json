@@ -7,7 +7,7 @@
     "verification": "https://youtu.be/erwP44bW1eY",
     "percentToQualify": 100,
     "skillsets": "Overall, Ship",
-    "enjoyment": "4.7/10",
+    "enjoyment": "4/10",
     "records": [
           {
             "user": "Iris",
@@ -26,6 +26,12 @@
             "link": "https://www.youtube.com/watch?v=vR1uJpNjEEs",
             "percent": 100,
             "enj": "?"
+        },
+         {
+         "user": "pluto",
+            "link": "https://drive.google.com/file/d/12F67HU3Pz4uUUNvp9yIhNJRtArjjReEY/view?usp=sharing",
+            "percent": 100,
+            "enj": "2"
         }
     ]
 }

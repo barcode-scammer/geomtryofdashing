@@ -7,7 +7,7 @@
     "verification": "https://www.youtube.com/watch?v=HRhT9-Q9-FU",
     "percentToQualify": "100",
     "skillsets": "Wave, Recurring Gameplay",
-    "enjoyment": "7.3/10",
+    "enjoyment": "7.4/10",
     "records": [
         {
             "user": "andy",
@@ -38,6 +38,12 @@
             "link": "https://youtu.be/FJnpaEVbnkw?si=Sdge523aM0ufMKx7",
             "percent": 100,
             "enj": "8"
-           }
+           },
+            {
+         "user": "Atlas",
+            "link": "https://medal.tv/games/geometry-dash/clips/nxKF0OQ3BvjXlGPZJ?invite=cr-MSxPNVQsMzMwMjY2OTc1",
+            "percent": 100,
+            "enj": "8"
+        }
     ]
 }

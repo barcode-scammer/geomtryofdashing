@@ -7,13 +7,19 @@
     "verification": "https://www.youtube.com/watch?v=_giUFZfERLQ",
     "percentToQualify": 100,
     "skillsets": "Wave, Fast-Paced",
-    "enjoyment": "8/10",
+    "enjoyment": "7.6/10",
     "records": [
          {
          "user": "Iris",
             "link": "https://drive.google.com/file/d/1rHuQ0nmk8TdXXQTpnW3Fto_hxeh31mLH/view?usp=sharing",
             "percent": 100,
             "enj": 6
+        },
+         {
+         "user": "Atlas",
+            "link": "https://medal.tv/games/geometry-dash/clips/nu1wrindPlb8Rzqxk?invite=cr-MSxtTlQsMzMwMjY2OTc1",
+            "percent": 100,
+            "enj": "6.7"
         }
     ]
 }

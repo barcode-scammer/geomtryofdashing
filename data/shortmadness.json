@@ -9,5 +9,11 @@
     "skillsets": "Ship, Straightfly",
     "enjoyment": "7/10",
     "records": [
+          {
+            "user": "Iris",
+            "link": "https://drive.google.com/file/d/12rxX55-d8Rt4ECEaB8pXELtoOZKUQ2Z_/view?usp=sharing",
+            "percent": 100,
+            "enj": 7
+        }
     ]
 }

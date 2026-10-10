@@ -9,5 +9,11 @@
     "skillsets": "Wave, Timings, 2 Player",
     "enjoyment": "6/10",
     "records": [
+         {
+         "user": "Iris",
+            "link": "https://www.youtube.com/watch?v=xa1OBKnhkz4",
+            "percent": 100,
+            "enj": 6
+        }
     ]
 }

@@ -9,5 +9,11 @@
     "skillsets": "Wave",
     "enjoyment": "?/10",
     "records": [
+         {
+         "user": "Iris",
+            "link": "https://www.youtube.com/watch?v=xa1OBKnhkz4",
+            "percent": 100,
+            "enj": 6
+        }
     ]
 }

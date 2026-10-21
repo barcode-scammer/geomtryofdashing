@@ -3,5 +3,20 @@
         "role": "Owner",
         "name": "Iris",
         "link": "https://www.youtube.com/@pillowinprison"
+    },
+     {
+        "role": "Editor 1",
+        "name": "Atlas",
+        "link": "https://youtube.com/@atlasarrowgd?si=9ymSe9EBZIjO2s6b"
+    },
+    {
+        "role": "Editor 2 ",
+        "name": "Guest",
+        "link": "https://youtube.com/@Xpialibrocious"
+    },
+    {
+        "role": "Editor 3",
+        "name": "Ivan",
+        "link": "https://www.youtube.com/@Prometheus_Alt"
     }
 ]

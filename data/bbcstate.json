@@ -9,5 +9,11 @@
     "skillsets": "Wave, High CPS",
     "enjoyment": "0/10",
     "records": [
+        {
+         "user": "Charliekirk",
+            "link": "",
+            "percent": 100,
+            "enj": 10
+        }
     ]
 }
